@@ -1,2 +1,2 @@
-# dk_met_web_links
-A collection of favorite meteorological website links.
+# 气象常用网站链接
+分门别类收集一些气象常用网站链接.

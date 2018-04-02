@@ -41,30 +41,3 @@
 * [中国气象局天气图](http://www.nmc.cn/publish/observations/china/dm/weatherchart-h000.htm) ([香港](http://www.hko.gov.hk/wxinfo/currwx/wxcht.htm)和[台湾](http://www.cwb.gov.tw/V7e/forecast/fcst/I04.htm))
 * [韩国气象局天气图](http://web.kma.go.kr/eng/weather/images/analysischart.jsp)
 * [日本气象局天气图](http://www.jma.go.jp/en/g3/)
-
-## 天气业务内网
-整理CMA业务网站地址, 部分网页需要浏览权限.
-
-* [中央气象台官网](http://www.nmc.gov.cn/)
-* [国家气象中心业务网](http://10.1.64.146/npt/)
-* [强对流监测和分析](http://10.24.34.188:8080/)
-* [决策服务信息共享](http://10.1.64.187/jcxt/home?mid=m1)
-* [中国气象局业务网](http://idata.cma/idata/) ([综合观测](http://10.1.64.154/webGis/gis), [天气雷达](http://idata.cma/radar3/), [台风路径](http://idata.cma/idata/web/typhoon/index), [数据服务](http://10.1.64.154/idata/web/data/index))
-* [大气探测中心业务](http://www.cmamoc.cn/)
-* [风云实时卫星](http://10.24.34.188:8080/)
-* [次季节和季节多模式预报](http://10.1.64.187/jcxt/home?mid=m1)
-
-* [WPC共享平台](http://thredds.cma.gov.cn/repository/entry/show)
-* [数值模式预报产品](http://10.28.17.59/showpic2/)
-* [集合预报](http://10.28.49.118/repository)
-* [数值模式检验及应用](http://10.28.17.26:8080/newrepository/entry/show)
-
-## 天气预报服务网站
-整理政府机构及公司的预报服务网站
-
-### 综合性政府天气预报网站
-* [中国天气网](http://www.weather.com.cn/)
-* [美国天气局](https://www.weather.gov/)
-* []
-
-### 商业天气预报网站

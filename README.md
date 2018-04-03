@@ -13,7 +13,8 @@
 
 * 卫星观测: [水汽](https://meteologix.com/cn/satellite/satellite-water-vapor-10min.html), [可见光](https://meteologix.com/cn/satellite/china/satellite-hd-10min.html), [真彩色](http://rammb-slider.cira.colostate.edu/?sat=himawari&sec=full_disk&x=4978&y=5012&z=2&im=24&ts=6&st=0&et=0&speed=130&motion=loop&map=1&lat=1&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider), [整层水汽](http://tropic.ssec.wisc.edu/real-time/mtpw2/product.php?color_type=tpw_nrl_colors&prod=wpac&timespan=24hrs&anim=html5)
 * 雷达图像: [交互式雷达拼图](http://idata.cma/radar3/), [静态实时雷达图片](http://www.nmc.gov.cn/publish/radar/huabei.html)
-* 模式诊断分析: [重要天气现象](https://meteologix.com/cn/model-charts/euro/china/significant-weather.html), [极端天气指数](http://10.28.49.118/repository/entry/show/NMC+Ensemble+Products/Products/Extreme+Weather/EFI%E7%BB%BC%E5%90%88%E5%9B%BE%28%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9F%29?entryid=fa9df179-3401-485f-963d-ed81d2655447)
-  * 综合图: [天气环流](https://meteologix.com/cn/model-charts/euro/china/synoptic-composite.html), [对流环境](https://meteologix.com/cn/model-charts/euro/china/thunderstorm-composite.html)
+* 模式诊断分析: [重要天气现象](https://meteologix.com/cn/model-charts/euro/china/significant-weather.html), [极端天气指数](http://10.28.49.118/repository/entry/show/NMC+Ensemble+Products/Products/Extreme+Weather/EFI%E7%BB%BC%E5%90%88%E5%9B%BE%28%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9F%29?entryid=fa9df179-3401-485f-963d-ed81d2655447)([ECMWF官网](https://www.ecmwf.int/en/forecasts/charts/catalogue/medium-multi-efi?facets=Range,Medium%20(15%20days)%3BType,Forecasts%3BProduct%20type,Extreme%20forecast%20index&time=2018040300,24,2018040400&projection=classical_eastern_asia))
+  * 综合图: [天气形势](https://meteologix.com/cn/model-charts/euro/china/synoptic-composite.html), [对流环境](https://meteologix.com/cn/model-charts/euro/china/thunderstorm-composite.html)
+  * 大气环流: 
   * 强对流: [强对流监测分析](http://10.20.67.111/#)
   * 中期延伸期分析: [500hPa距平分析](https://weathermodels.com/index.php?r=site%2Fmodels&mode=animator&set=14-km%20EPS%2046-DAYS&area=China&param=5-day%20Avg%20500Z%20Anom&offset=0)

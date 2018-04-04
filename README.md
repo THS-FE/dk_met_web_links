@@ -10,8 +10,10 @@
 
 ----
 ### 常规分析
-
-* 卫星观测: [水汽](https://meteologix.com/cn/satellite/satellite-water-vapor-10min.html), [可见光](https://meteologix.com/cn/satellite/china/satellite-hd-10min.html), [真彩色](http://rammb-slider.cira.colostate.edu/?sat=himawari&sec=full_disk&x=4978&y=5012&z=2&im=24&ts=6&st=0&et=0&speed=130&motion=loop&map=1&lat=1&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider), [整层水汽](http://tropic.ssec.wisc.edu/real-time/mtpw2/product.php?color_type=tpw_nrl_colors&prod=wpac&timespan=24hrs&anim=html5)
+* 常规观测: [地面](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h000.htm), [850hPa](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h850.htm)
+* 卫星观测:
+  * 常用: [水汽](https://meteologix.com/cn/satellite/satellite-water-vapor-10min.html), [可见光](https://meteologix.com/cn/satellite/china/satellite-hd-10min.html), [真彩色](http://rammb-slider.cira.colostate.edu/?sat=himawari&sec=full_disk&x=4978&y=5012&z=2&im=24&ts=6&st=0&et=0&speed=130&motion=loop&map=1&lat=1&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider), [整层水汽](http://tropic.ssec.wisc.edu/real-time/mtpw2/product.php?color_type=tpw_nrl_colors&prod=wpac&timespan=24hrs&anim=html5)
+  * SSEC: [葵花卫星](https://re.ssec.wisc.edu/?products=himawari08-rgb,HIMAWARI-B10,HIMAWARI-B09,HIMAWARI-B08&timeproduct=HIMAWARI-B08&center=35,100&zoom=5&timespan=12t&labels=lines); [海温](https://re.ssec.wisc.edu/?products=NESDIS-SST&center=20,125&zoom=5&timespan=12t&labels=lines)
 * 雷达图像: [交互式雷达拼图](http://idata.cma/radar3/), [静态实时雷达图片](http://www.nmc.gov.cn/publish/radar/huabei.html)
 * 模式诊断分析: [重要天气现象](https://meteologix.com/cn/model-charts/euro/china/significant-weather.html), [极端天气指数](http://10.28.49.118/repository/entry/show/NMC+Ensemble+Products/Products/Extreme+Weather/EFI%E7%BB%BC%E5%90%88%E5%9B%BE%28%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9F%29?entryid=fa9df179-3401-485f-963d-ed81d2655447)([ECMWF官网](https://www.ecmwf.int/en/forecasts/dashboard))
   * 综合图: [天气形势](https://meteologix.com/cn/model-charts/euro/china/synoptic-composite.html), [对流环境](https://meteologix.com/cn/model-charts/euro/china/thunderstorm-composite.html)

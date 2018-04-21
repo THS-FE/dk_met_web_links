@@ -7,7 +7,7 @@
 
 ## 常用快速链接
 
-* 常规观测: [地面](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h000.htm), [850hPa](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h850.htm)
+* 常规观测: [地面](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h000.htm), [降水](http://www.nmc.gov.cn/publish/observations/hourly-precipitation.html), [850hPa](http://www.nmc.gov.cn/publish/observations/china/dm/weatherchart-h850.htm)
 * 卫星观测:
   * 常用: [水汽](https://meteologix.com/cn/satellite/satellite-water-vapor-10min.html), [可见光](https://meteologix.com/cn/satellite/china/satellite-hd-10min.html), 真彩色[(1)](http://rammb-slider.cira.colostate.edu/?sat=himawari&sec=full_disk&x=4978&y=5012&z=2&im=24&ts=6&st=0&et=0&speed=130&motion=loop&map=1&lat=1&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider)[(2)](https://www.nnvl.noaa.gov/NOAA_Earth_Daily_Color/Snapshot.html), [整层水汽](http://tropic.ssec.wisc.edu/real-time/mtpw2/product.php?color_type=tpw_nrl_colors&prod=wpac&timespan=24hrs&anim=html5)
   * SSEC: [葵花卫星](https://re.ssec.wisc.edu/?products=H-TrueColor-wgt,HIMAWARI-B10,HIMAWARI-B09,HIMAWARI-B08&timeproduct=HIMAWARI-B08&center=35,100&zoom=5&timespan=12t&labels=lines); [海温](https://re.ssec.wisc.edu/?products=NESDIS-SST&center=20,125&zoom=5&timespan=12t&labels=lines)
@@ -24,3 +24,5 @@
   * 中长期:
     * WeatherModels: [500hPa距平](https://weathermodels.com/index.php?r=site%2Fmodels&mode=animator&set=14-km%20EPS%2046-DAYS&area=Asia&param=5-day%20Avg%20500Z%20Anom&offset=0), [850hPa距平](https://weathermodels.com/index.php?r=site%2Fmodels&mode=animator&set=14-km%20EPS%2046-DAYS&area=Asia&param=5-day%20Avg%20850T%20Anom&offset=0), [2m温度距平](https://weathermodels.com/index.php?r=site%2Fmodels&mode=animator&set=14-km%20EPS%2046-DAYS&area=Asia&param=5-day%20Avg%20T2M%20Anom&offset=0), [降水距平](https://weathermodels.com/index.php?r=site%2Fmodels&mode=animator&set=14-km%20EPS%2046-DAYS&area=Asia&param=Total%20Precip%20Anomaly&offset=0)
     * ECMWF: [MJO](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_mjo_family_index?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts), [降水距平](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_anomaly?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts&parameter=precipitation&area=East%20Asia), [温度距平](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_anomaly?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts&parameter=2m%20temperature&area=East%20Asia)
+  * 站点:
+    * [ECMWF箱线图](https://www.ecmwf.int/en/forecasts/charts/web/classical_meteogram?facets=undefined&epsgram=classical_10d&lat=39.91&lon=116.4&station_name=Beijing,%20China&altitude=63)

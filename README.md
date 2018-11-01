@@ -28,3 +28,5 @@
     * ECMWF: [MJO](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_mjo_family_index?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts), [降水距平](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_anomaly?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts&parameter=precipitation&area=East%20Asia), [温度距平](https://www.ecmwf.int/en/forecasts/charts/catalogue/mofc_multi_anomaly?facets=Range,Medium%20(15%20days),Extended%20(30%20days)%3BType,Forecasts&parameter=2m%20temperature&area=East%20Asia)
   * 站点:
     * [ECMWF箱线图](https://www.ecmwf.int/en/forecasts/charts/web/classical_meteogram?facets=undefined&epsgram=classical_10d&lat=39.91&lon=116.4&station_name=Beijing,%20China&altitude=63)
+* 环境污染
+  * [欧洲copernicus中心发布的全球气溶胶预报](https://atmosphere.copernicus.eu/charts/cams/aerosol-forecasts)
